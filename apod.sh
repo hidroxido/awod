@@ -27,5 +27,5 @@ fi
 mv $ubicacion/$image $ubicacion/bg.jpg
 
 #IMPORTANTE !!!! CAMBIAR SEGUN ESCITORIO O DESKTOP MANAGER QUE SE UTILICE !!!
-DISPLAY=:0.0 fbsetbg -c /home/saruman/wallpaper/bg.jpg #METODO PARA CAMBIAR FONDO EN FLUXBOX
+DISPLAY=:0.0 fbsetbg -c $ubicacion/bg.jpg #METODO PARA CAMBIAR FONDO EN FLUXBOX
 
