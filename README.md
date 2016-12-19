@@ -6,3 +6,4 @@ Favor leer los comentarios del script y hacer los cambios !!!
 Se recomienda crear una regla de cron para la automatizacion del script segun la hora en que actualize APOD su imagen diariamente.
 
 Las imagenes tienen copyright de sus respectivos creadores.
+APOD apod.nasa.gov Copyright (C) NASA, Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)
