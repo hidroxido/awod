@@ -11,3 +11,6 @@ Se recomienda crear una regla de cron para la automatizacion del script segun la
 
 Las imagenes tienen copyright de sus respectivos creadores.
 APOD apod.nasa.gov Copyright (C) NASA, Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)
+
+TODO:
+1 - Extraer texto que describe la imagen desde el HTML
