@@ -1,5 +1,5 @@
 #! /bin/bash
-#AWOD Copyright (C) 2016 Camilo Ortiz
+#AWOD 2016 Camilo Ortiz
 #apod.nasa.gov Copyright (C) NASA and  Robert Nemiroff (MTU) & Jerry Bonnell (UMCP)
 #Pictures Copyright (C) belong to their respective owners
 
