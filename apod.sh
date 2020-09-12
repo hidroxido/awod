@@ -18,7 +18,7 @@
 #===============================================================
 
 #CAMBIAR PATH PARA UBICACION DE IMAGEN DE FONDO
-ubicacion=/home/usuario/wallpaper
+ubicacion=~/.awod
 
 wget -q http://apod.nasa.gov -P $ubicacion
 nasa=$(grep "<IMG" $ubicacion/index.html | cut -d \" -f 2 )
